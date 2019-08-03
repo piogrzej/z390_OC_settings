@@ -38,4 +38,4 @@ This are my notes about z390 OC settings
 
 ## RAM VLOTAGES
 
-![CPU VOLTAGES](imgs/11.BMP)
+![CPU VOLTAGES](imgs/10.BMP)
