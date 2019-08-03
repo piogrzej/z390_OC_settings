@@ -10,32 +10,32 @@ This are my notes about z390 OC settings
 
 ## SUMMARY
 
-![SUMMARY](imgs/1.bmp)
+![SUMMARY](imgs/1.BMP)
 
 ## FREQUENCY SETTINGS
 
-![FREQUENCY](imgs/2.bmp)
+![FREQUENCY](imgs/2.BMP)
 
 ## ADVANCED FREQUENCY SETTINGS
 
-![ADVANCED FREQUENCY PART 1](imgs/3.bmp)
+![ADVANCED FREQUENCY PART 1](imgs/3.BMP)
 
-![ADVANCED FREQUENCY PART 2](imgs/4.bmp)
+![ADVANCED FREQUENCY PART 2](imgs/4.BMP)
 
 ## MEMORY SETTINGS
 
-![MEMORY SETTINGS](imgs/5.bmp)
+![MEMORY SETTINGS](imgs/5.BMP)
 
-![SUB TIMINGS](imgs/6.bmp)
+![SUB TIMINGS](imgs/6.BMP)
 
 ## CHIPSET VOLTAGES
 
-![CHIPSET VLOTAGES](imgs/8.bmp)
+![CHIPSET VLOTAGES](imgs/8.BMP)
 
 ## CPU VOLTAGES
 
-![CPU VOLTAGES](imgs/9.bmp)
+![CPU VOLTAGES](imgs/9.BMP)
 
 ## RAM VLOTAGES
 
-![CPU VOLTAGES](imgs/11.bmp)
+![CPU VOLTAGES](imgs/11.BMP)
