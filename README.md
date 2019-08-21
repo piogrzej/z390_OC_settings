@@ -34,8 +34,9 @@ This are my notes about z390 OC settings
 
 ## CPU VOLTAGES
 
-Dynamic Vcore +0.040V -> System is stable but gives rounding errors in mprime small FFTs
-Dynamic Vcore +0.085V -> System is stable no errors in mprime
+*Dynamic Vcore* +0.040V -> System is stable but gives rounding errors in mprime small FFTs
+
+*Dynamic Vcore* +0.085V -> System is stable, no errors in mprime
 
 ![CPU VOLTAGES](imgs/9.BMP)
 
